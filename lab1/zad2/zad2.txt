@@ -1,0 +1,1 @@
+Trzeba zmienic nazwe pliku tak zeby byla taka sama co nazwa klasy.
