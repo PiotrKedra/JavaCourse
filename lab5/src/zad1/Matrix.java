@@ -3,10 +3,10 @@ package zad1;
 import java.io.*;
 import java.util.ArrayList;
 
-class Matrix {
-    private float [][] matrix_;
-    private int rows_;
-    private int columns_;
+public class Matrix {
+    public float [][] matrix_;
+    public int rows_;
+    public int columns_;
 
     Matrix(String path) throws IOException, MatrixDimensionsException{
         InputStreamReader in = new InputStreamReader(new FileInputStream(path));
@@ -45,7 +45,7 @@ class Matrix {
 
     }
 
-    Matrix(float [][] matrix, int rows, int columns){
+    public Matrix(float [][] matrix, int rows, int columns){
         matrix_=matrix;
         rows_=rows;
         columns_=columns;
@@ -76,7 +76,7 @@ class Matrix {
         return new Matrix(result, 2, 2);
     }
 
-    Matrix mul(Matrix m2) throws MatrixDimensionsException{
+    public Matrix mul(Matrix m2) throws MatrixDimensionsException{
         if(this.columns_!=m2.rows_){
             throw new MatrixDimensionsException();
         }
@@ -96,7 +96,7 @@ class Matrix {
     }
 
 
-    void show(){
+    public void show(){
         for(int i=0; i<this.rows_; ++i){
             for(int j=0; j<this.columns_; ++j){
                 System.out.print(this.matrix_[i][j] + " ");
