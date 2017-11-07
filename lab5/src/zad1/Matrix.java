@@ -83,11 +83,11 @@ public class Matrix {
         float [][] result = new float[this.rows_][m2.columns_];
         for(int i=0; i<this.rows_ ; ++i){
             for(int j=0; j<m2.columns_ ; ++j){
+                int b=0;
                 int value = 0;
                 for(int a=0; a<this.columns_ ; ++a){
-                    for(int b=0; b<m2.rows_ ; ++b){
-                        value += this.matrix_[i][a]*m2.matrix_[b][j];
-                    }
+                    value += this.matrix_[i][a]*m2.matrix_[b][j];
+                    ++b;
                 }
                 result[i][j] = value;
             }
