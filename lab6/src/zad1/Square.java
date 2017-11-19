@@ -12,7 +12,7 @@ public class Square extends JPanel implements Shape{
         _y = y;
     }
 
-    protected void paintComponent(Graphics graphics) {
+    public void paint(Graphics graphics) {
         Graphics2D g = (Graphics2D) graphics;
         g.setColor(Color.DARK_GRAY);
         g.fillRect(_x, _y, 50, 50);

@@ -12,11 +12,9 @@ public class Triangle extends JPanel implements Shape{
         _y = y;
     }
 
-    protected void paintComponent(Graphics graphics) {
+    public void paint(Graphics graphics) {
         Graphics2D g = (Graphics2D) graphics;
         g.setColor(Color.RED);
-        g.drawLine(_x,_y,_x+50,_y);
-        g.drawLine(_x,_y,_x+25,_y-40);
-        g.drawLine(_x+50,_y,_x+25,_y-40);
+        g.fillPolygon(new int[]{_x,_x+40,_x+80}, new int[]{_y,_y-40,_y},3);
     }
 }
