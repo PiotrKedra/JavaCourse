@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a2e3506-f893-4764-beab-5302c611db3d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lab6/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lab6/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Obrazy/ObrazFrame.java" afterPath="$PROJECT_DIR$/src/Obrazy/ObrazFrame.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ObrazTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Obrazy/ObrazTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObrazFrame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Obrazy/ObrazFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\studia\semestr_3\PO\AWT&amp;SwingTutorial</dir>
+      <dir>D:\studia\semestr_3\PO\JavaCourse\AWT&amp;SwingTutorial</dir>
+      <dir>D:\studia\semestr_3\PO\JavaCourse\AWT&amp;Swing</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LayoutManagers/MeFrame.java" />
+        <option value="$PROJECT_DIR$/src/LayoutManagers/Test.java" />
+        <option value="$PROJECT_DIR$/src/LayoutManagers/MyFrame.java" />
+        <option value="$PROJECT_DIR$/src/JPanel_and_JComponent/Test2.java" />
+        <option value="$PROJECT_DIR$/src/JPanel_and_JComponent/MyFrame2.java" />
+        <option value="$PROJECT_DIR$/src/Obrazy/ObrazTest.java" />
+        <option value="$PROJECT_DIR$/src/JPanel_and_JComponent/MyPanel.java" />
+        <option value="$PROJECT_DIR$/src/Obrazy/ObrazPanel.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzen/ButtonPanel.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzen/ActionFrame.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzen/TestZdarzenia.java" />
+        <option value="$PROJECT_DIR$/src/ObslugaZdarzenV2/RandomColorButton.java" />
+        <option value="$PROJECT_DIR$/src/ObslugaZdarzenV2/TestV2.java" />
+        <option value="$PROJECT_DIR$/src/ObslugaZdarzenV2/ActionFrameV2.java" />
+        <option value="$PROJECT_DIR$/src/ObslugaZdarzenV2/ButtonPanelV2.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzenMysz/MaouseFrame.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzenMysz/MauseTestPanel.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzenMysz/MouseTestPanel.java" />
+        <option value="$PROJECT_DIR$/src/ObsługaZdarzenMysz/MouseFrame.java" />
+        <option value="$PROJECT_DIR$/src/Obrazy/ObrazFrame.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="367" />
+    <option name="y" value="-18" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AWT&amp;SwingTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWT&amp;SwingTutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWT&amp;SwingTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWT&amp;SwingTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AWT&amp;SwingTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AWT&amp;SwingTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Obrazy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studia\semestr_3\PO\JavaCourse" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ObrazTest">
+    <configuration name="MouseFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ObsługaZdarzenMysz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ObsługaZdarzenMysz.MouseFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AWT&amp;SwingTutorial" />
+      <envs />
+    </configuration>
+    <configuration name="ObrazTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Obrazy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Obrazy.ObrazTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AWT&amp;SwingTutorial" />
+      <envs />
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="JPanel_and_JComponent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="JPanel_and_JComponent.Test2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AWT&amp;SwingTutorial" />
+      <envs />
+    </configuration>
+    <configuration name="TestV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ObslugaZdarzenV2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ObslugaZdarzenV2.TestV2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AWT&amp;SwingTutorial" />
+      <envs />
+    </configuration>
+    <configuration name="TestZdarzenia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ObsługaZdarzen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ObsługaZdarzen.TestZdarzenia" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AWT&amp;SwingTutorial" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ObrazTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestZdarzenia" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestV2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MouseFrame" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ObrazTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MouseFrame" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestV2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestZdarzenia" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a2e3506-f893-4764-beab-5302c611db3d" name="Default" comment="" />
+      <created>1510408329167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1510408329167</updated>
+      <workItem from="1510408332904" duration="5470000" />
+      <workItem from="1510941317223" duration="2645000" />
+      <workItem from="1511016916466" duration="4607000" />
+      <workItem from="1511028732109" duration="2974000" />
+      <workItem from="1511089711041" duration="1613000" />
+      <workItem from="1511091944731" duration="110000" />
+      <workItem from="1511092355523" duration="4000" />
+    </task>
+    <task id="LOCAL-00001" summary="CURSE">
+      <created>1511018905119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511018905119</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CURSE">
+      <created>1511018947883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1511018947883</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CURSE">
+      <created>1511089987606</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1511089987606</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17423000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33222958" sideWeight="0.080729164" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33222958" sideWeight="0.9192708" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11770833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32560706" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CURSE" />
+    <option name="LAST_COMMIT_MESSAGE" value="CURSE" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Obrazy/ObrazTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Obrazy/ObrazFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/ButtonPanelV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/ActionFrameV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzenMysz/MouseTestPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzenMysz/MouseFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/ButtonPanelV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/ActionFrameV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/TestV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazTest.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazTest.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/com/company/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/LayoutManagers/MyFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/JPanel_and_JComponent/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/LayoutManagers/Test.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/JPanel_and_JComponent/MyFrame2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/JPanel_and_JComponent/MyPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/IMG_20161031_213819.jpg" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzen/ButtonPanel.java" />
+    <entry file="file://$PROJECT_DIR$/src/ObslugaZdarzenV2/RandomColorButton.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzen/ActionFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzen/TestZdarzenia.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/TestV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/ButtonPanelV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObslugaZdarzenV2/ActionFrameV2.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzenMysz/MouseTestPanel.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/ObsługaZdarzenMysz/MouseFrame.java" />
+    <entry file="file://$PROJECT_DIR$/../JavaCourse/AWT&amp;SwingTutorial/src/Obrazy/ObrazTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Obrazy/ObrazTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Obrazy/ObrazFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
