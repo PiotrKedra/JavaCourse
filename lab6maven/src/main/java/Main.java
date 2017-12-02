@@ -1,35 +1,39 @@
-import io.indico.Indico;
-import io.indico.api.image.FacialEmotion;
-import io.indico.api.results.BatchIndicoResult;
-import io.indico.api.results.IndicoResult;
+import exceptions.DirDoesNotExistException;
+import exceptions.WrongFileInDirException;
+import implementation.Segregate;
 import io.indico.api.utils.IndicoException;
+import org.apache.commons.io.FilenameUtils;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
+        try {
+            Segregate segregateion = new Segregate();
+            segregateion.set_curent_dir("fotos");
+            File dir=new File("fotos");
+            if(dir.exists()){
+                throw new DirDoesNotExistException();
+            }
+            File[] files = dir.listFiles();
+            ArrayList<String> fileNames = new ArrayList<String>();
+            File[] fileNamees;
 
-            Indico indico = new Indico("38c374e41d1a4c52971eac0ba06b18db");
-
-            try {
-                System.out.println(indico.fer.predict(new File("C:\\Users\\piotr\\Desktop\\Klusek\\IMG_20161031_213819.jpg")));
-            }catch (IOException e){
-                e.printStackTrace();
-            }catch (IndicoException e){
-                e.printStackTrace();
+            for(File file: files){
+                if(FilenameUtils.getExtension(file.getAbsolutePath()).equals("jpg")){
+                    segregateion.classify(file.getAbsolutePath());
+                    segregateion.move(file.getName());
+                } else if(FilenameUtils.getExtension(file.getAbsolutePath()).equals("")){
+                    System.out.println(FilenameUtils.getExtension(file.getAbsolutePath()));
+                }else {
+                    throw new WrongFileInDirException(file.getName());
+                }
             }
 
-        /*// batch example
-        String[] example = {
-                "<IMAGE>",
-                "<IMAGE>"
-        };
-        BatchIndicoResult multiple = indico.imageRecognition.predict(example);
-        List<Double> results = multiple.getImageRecognition();
-        System.out.println(results);*/
+        }catch (WrongFileInDirException | DirDoesNotExistException |IndicoException | IOException e){
+            e.printStackTrace();
+        }
     }
 }

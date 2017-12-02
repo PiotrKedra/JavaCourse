@@ -14,10 +14,11 @@
             <artifactId>jlayer</artifactId>
             <version>1.0.1</version>
         </dependency>
+
         <dependency>
-            <groupId>io.indico</groupId>
-            <artifactId>indico</artifactId>
-            <version>3.1.0</version>
+            <groupId>javax.mail</groupId>
+            <artifactId>mail</artifactId>
+            <version>1.4</version>
         </dependency>
     </dependencies>
 
