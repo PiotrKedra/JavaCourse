@@ -1,16 +1,20 @@
 import exceptions.DirDoesNotExistException;
 import exceptions.WrongFileInDirException;
+import gui.fotoListPanel.fotoListPanel;
+import gui.fotoPanel.fotoPanel;
 import implementation.Segregate;
 import io.indico.api.utils.IndicoException;
 import org.apache.commons.io.FilenameUtils;
 
+import javax.swing.*;
+import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
-        try {
+        /*try {
             Segregate segregateion = new Segregate();
             segregateion.set_curent_dir("fotos");
             File dir=new File("fotos");
@@ -34,6 +38,17 @@ public class Main {
 
         }catch (WrongFileInDirException | DirDoesNotExistException |IndicoException | IOException e){
             e.printStackTrace();
-        }
+        }*/
+
+        JFrame frame = new JFrame("GUI");
+        frame.setPreferredSize(new Dimension(800,300));
+        frame.setLayout(new BorderLayout());
+        frame.add(new fotoPanel(),BorderLayout.CENTER);
+        frame.add(new fotoListPanel(),BorderLayout.LINE_START);
+        frame.pack();
+        frame.setVisible(true);
+        frame.setLocationRelativeTo(null);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
+
 }
